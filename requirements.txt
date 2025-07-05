@@ -1,10 +1,7 @@
-faiss-cpu
-PyMuPDF
+streamlit==1.27.2
 sentence-transformers==2.2.2
 transformers==4.28.1
-tensorflow==2.11.0
-keras==2.11.0
-tf-keras
-huggingface_hub==0.14.1
-protobuf==3.19.6
 torch==1.13.1
+faiss-cpu==1.7.3
+PyMuPDF==1.22.5
+numpy==1.24.3
