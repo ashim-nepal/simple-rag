@@ -1,6 +1,7 @@
 faiss-cpu
 PyMuPDF
-sentence-transformers
-transformers
-tensorflow
+sentence-transformers==2.2.2
+transformers==4.28.1
+tensorflow==2.11.0
+keras==2.11.0
 tf-keras
