@@ -6,4 +6,4 @@ tensorflow==2.11.0
 keras==2.11.0
 tf-keras
 huggingface_hub==0.14.1
-protobuf==3.19.6
+protobuf==3.20.x
